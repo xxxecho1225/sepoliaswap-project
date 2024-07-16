@@ -1,0 +1,1 @@
+本交易所是基于全球知名的去中心化交易所uniswap开源的V2智能合约、sdk以及interface前端开发。技术栈包括solidity+react.js。合约主要有UniswapV2Factory合约、UniswapV2Router合约、UniswapV2Pair合约、WETH9合约以及multicall合约。通过修改uniswapV2合约、添加兼容evm的sepolia链id、发布npm个人sdk、修改区块链浏览器链接、修改tokenlist以及设置个人token图标等操作，实现添加移除流动性、交换代币和代币交易等功能。
